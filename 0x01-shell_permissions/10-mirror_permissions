@@ -1,2 +1,2 @@
-vi 10-mirror_permissions
 #!/bin/bash
+chmod -c hello olleh
